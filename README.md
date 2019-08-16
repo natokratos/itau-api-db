@@ -100,6 +100,8 @@ Este projeto funciona como o servidor do banco de dados H2 para o projeto **itau
 
 # Banco em memória
 
+- A versão atual do banco não persiste os dados em disco;
+
 - Para acessar o H2 (banco em memória) local use o seguinte endereço:
 
 	http://localhost:9010/h2

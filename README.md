@@ -121,3 +121,9 @@ Este projeto funciona como o servidor do banco de dados H2 para o projeto **itau
 - Deixe o campo Password vazio
   
 - Clique em Connect
+
+# Logs
+
+- Os logs da aplicação são gravados no seguinte diretório:
+
+	$HOME/logs 
